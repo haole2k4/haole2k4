@@ -9,7 +9,7 @@ I am a 4th-year Software Engineering student passionate about building scalable 
 - 🧠 Currently working on my thesis: an **AI Eye-Gaze Controller**.
 - ☁️ Studying for the **AWS Certified Solutions Architect – Associate** certification.
 - 🐧 Linux enthusiast, frequently tinkering with Fedora and system customization.
-- 🛠️ Deeply interested in DevOps (Docker, Podman, Nix) and architectural patterns like Microservices and Clean Architecture.
+- 🛠️ Deeply interested in DevOps (Docker, Podman) and architectural patterns like Microservices and Clean Architecture.
 
 ### 🛠️ Tech Stack
 
@@ -26,11 +26,7 @@ I am a 4th-year Software Engineering student passionate about building scalable 
 **Tools & Environment** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-
-### 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haole2k4&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haole2k4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 *Just a developer trying to learn new things every day.*
